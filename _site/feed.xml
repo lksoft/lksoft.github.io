@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Scott Little</title>
+    <description>Follow &lt;a href=&quot;https://micro.blog/littleknown&quot;&gt;@littleknown on Micro.blog&lt;/a&gt;.</description>
+    <link>http://blog.scottjlittle.net/</link>
+    <pubDate>Tue, 16 Jan 2018 12:52:53 +0100</pubDate>
+    <lastBuildDate>Tue, 16 Jan 2018 12:52:53 +0100</lastBuildDate>
+    
+      <item>
+      	
+        <description>&lt;p&gt;Here I am! Let’s see if I can do some &lt;strong&gt;microblogging&lt;/strong&gt;.&lt;/p&gt;
+</description>
+        <pubDate>Thu, 27 Apr 2017 23:01:00 +0100</pubDate>
+        <link>http://blog.scottjlittle.net/2017/04/27/here-i-am.html</link>
+        <guid isPermaLink="true">http://littleknown.micro.blog/2017/04/27/here-i-am.html</guid>
+      </item>
+    
+  </channel>
+</rss>
