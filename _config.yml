@@ -1,0 +1,55 @@
+# # # # # # # #
+#   K i k o   #
+# # # # # # # #
+
+# - markdown: kramdown
+
+# Navigation
+nav:
+  - # - name:           "About"
+    href:           "/about/"
+  - # - name:           "RSS"
+    href:           "/feed.xml"
+
+# Sass
+sass:
+  style:            :compressed
+
+# Scopes
+defaults:
+  -
+    scope:
+      path:         ""
+      type:         "pages"
+    values:
+      layout:       "page"
+  -
+    scope:
+      path:         ""
+      type:         "posts"
+    values:
+      layout:       "post"
+
+title: "Scott Little"
+tagline: ""
+description: "Follow <a href=\"https://micro.blog/littleknown\">@littleknown on Micro.blog</a>."
+credits: "Follow <a href=\"https://micro.blog/littleknown\">@littleknown on Micro.blog</a>."
+baseurl: ""
+url: "http://blog.scottjlittle.net"
+markdown: "kramdown"
+username: "littleknown"
+permalink: "/:year/:month/:day/:title.html"
+relative_permalinks: false
+author: "Scott Little"
+name: "Scott Little"
+gravatar_hash: "92621a08be72d3e669584b43a290ee22"
+avatar: "https://micro.blog/littleknown/avatar.jpg"
+full_name: "Scott Little"
+bio: ""
+twitter_username: ""
+github_username: ""
+instagram_username: ""
+paginate: 20
+paginate_path: "/page/:num/"
+timezone: "Poland"
+site_id: "611"
